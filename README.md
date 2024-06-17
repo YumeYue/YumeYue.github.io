@@ -7,4 +7,4 @@ Currently a student learning how to use GitHub.
 
 ## Things I'm looking forward to
 - Learning website creation (*redundant I know*)
-- Having a place to store information from my classes
+- Having a place to store information from my classes *and maybe also using it for projects*
